@@ -53,19 +53,19 @@ def main():
     parser = create_parser()
     args = parser.parse_args()
     _get_league_id(args.region, args.edition)
-    x = range(120)
+    x = range(240)
     if args.dry_run == True:
         subprocess.run(["python", "lp_ept_cups.py", "-n", "-p", args.page_template, "participants", args.region, str(args.edition)])
         time.sleep(60)
         for n in x:
             subprocess.run(["python", "lp_ept_cups.py", "-n", "-p", args.page_template, "results", args.region, str(args.edition)])
-            time.sleep(120)
+            time.sleep(60)
     else:
         subprocess.run(["python", "lp_ept_cups.py", "-p", args.page_template, "participants", args.region, str(args.edition)])
         time.sleep(60)
         for n in x:
             subprocess.run(["python", "lp_ept_cups.py", "-p", args.page_template, "results", args.region, str(args.edition)])
-            time.sleep(120)
+            time.sleep(60)
         
 if __name__ == '__main__':
     main()
