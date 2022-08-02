@@ -8,6 +8,16 @@ You may install the scripts like so:
 
 ## Usage
 
+### shell
+This script fetches League ID from the [ESL Website](https://play.eslgaming.com)
+and sends it to the lp-ept-cups file that it automatically runs every 60 seconds
+for 4 hours.
+
+Fetching is dependant on [flaresolverr](https://github.com/FlareSolverr/FlareSolverr).
+
+As noted below, Liquipedia Username and Password must be set as environmental
+variables to access Liquipedia.
+
 ### lp-ept-cups
 This script fetches data regarding the weekly SC2 cups from the [ESL
 website](https://play.eslgaming.com) and uses it to update Liquipedia. It can
