@@ -18,7 +18,12 @@ Fetching is dependant on [flaresolverr](https://github.com/FlareSolverr/FlareSol
 As noted below, Liquipedia Username and Password must be set as environmental
 variables to access Liquipedia.
 
-### lp-ept-cups
+Usage is the same as below except excluding participants or results (the script
+automatically runs participants once and then results 240 times). So for example:
+
+    $ shell AM 134
+
+### lp_ept_cups
 This script fetches data regarding the weekly SC2 cups from the [ESL
 website](https://play.eslgaming.com) and uses it to update Liquipedia. It can
 currenlty update the list of notable participants and the results. The
@@ -31,20 +36,20 @@ In order to edit Liquipedia, credentials must be passed to the script:
 
 The list of participants can be overriden like so:
 
-    $ lp-ept-cups participants EU 126
+    $ lp_ept_cups participants EU 126
 
 The results can be updated like so:
 
-    $ lp-ept-cups results EU 126
+    $ lp_ept_cups results EU 126
 
 You can use the -n/--dry-run flag to run the script without actually modifying
 the Liquipedia page:
 
-    $ lp-ept-cups -n participants EU 126
+    $ lp_ept_cups -n participants EU 126
 
 You can also edit a different page (mostly for testing purposes):
 
-    $ lp-ept-cups -p 'User:MyUser/ESL_Open_Cup_${region}/${edition}' results EU 126
+    $ lp_ept_cups -p 'User:MyUser/ESL_Open_Cup_${region}/${edition}' results EU 126
 
 ## Contributing
 
