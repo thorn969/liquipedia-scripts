@@ -26,6 +26,7 @@ ESL id,LP name,LP link,race,flag,notable
 6864800,Avokado,,,,1
 5688274,AZTEX,,,,1
 16098373,Azura,,,,1
+8519655,Azure,,,,1
 9377363,BabyMarine,,,,1
 12039454,Barbarossa,,,,1
 11980641,BattleB,,,,1
@@ -93,6 +94,7 @@ ESL id,LP name,LP link,race,flag,notable
 6239085,EnigmA,,,,1
 7100988,Enpo,,,,1
 8817712,Epic,,,,1
+8020518,ErebusBlack,,,,1
 8088570,Erik,,,,1
 14545714,Eternity,,,,1
 14588915,ETpwnHome,,,,1
@@ -103,6 +105,7 @@ ESL id,LP name,LP link,race,flag,notable
 9765285,Fallenger,,,,1
 7849317,Fazer,,,,1
 6426950,FeaR,,,,1
+15855538,Fenix,Fenix_(Chinese_player),,,1
 7875945,FightingFrog,,,,1
 13135539,Firefly,,,,1
 13595666,Fjant,,,,1
@@ -222,6 +225,7 @@ ESL id,LP name,LP link,race,flag,notable
 11943707,NaiveZerg,,,,1
 7486967,Namshar,,,,1
 932590,NaNiwa,,,,1
+7494000,Narra,,,,1
 11448963,NaXin,,,,1
 9037858,Neeb,,,,1
 14556111,NeosShaggy,,,,1
@@ -278,6 +282,7 @@ ESL id,LP name,LP link,race,flag,notable
 5701196,Reynor,,,,1
 8565145,Rhizer,,,,1
 7266822,Rhoust,,,,1
+7660203,Rize,,,,1
 5775677,Rob,,,,1
 16865189,RockEr,,,,1
 6865572,Rodzyn,,,,1
@@ -357,6 +362,7 @@ ESL id,LP name,LP link,race,flag,notable
 15882536,WhiteIdra,,,,1
 11091724,YanXII,,,,1
 7830134,YB,,,,1
+14448584,YoGer,,,,1
 13623912,YoungStar,,,,1
 14591794,YoungYakov,,,,1
 10707564,yryf,,,,1
@@ -382,7 +388,7 @@ ESL id,LP name,LP link,race,flag,notable
 16324076,BadBorz,,z,pl,0
 16685128,BaRaGooD,,p,fr,0
 16131550,blarg,,z,us,0
-16859508,Blueming,,t,cn,0
+16859508,Oriana,,,,1
 14724071,Blutmilan,,p,de,0
 16325032,Bumbz,,p,se,0
 16043086,Bush,,p,lt,0
@@ -392,7 +398,7 @@ ESL id,LP name,LP link,race,flag,notable
 14589064,chelseafan,,p,us,0
 18277031,chromawa,,p,us,0
 16255549,Clown,,p,cn,0
-15447853,CobbleStone,,p,fr,0
+15447853,Cobblestone,,p,fr,0
 15842878,coconutgamezz,,p,us,0
 16833971,Cognite,,p,us,0
 16041930,CristianoX,,p,cl,0
@@ -402,12 +408,14 @@ ESL id,LP name,LP link,race,flag,notable
 11965229,DaSh,,p,ph,0
 10103525,Daydreamer,,p,cn,0
 12961305,Dobro,,p,ua,0
+17760845,dot,,z,hk,0
 15707349,Dreamatose,,p,us,0
 16098924,Dro,,p,us,0
 18177113,DubiousMD,,p,us,0
 17376641,Elstubert,,p,us,0
 17242507,Enhimba,,p,ru,0
 14550468,Faint,,z,kr,0
+15840715,FarmY,,p,kr,0
 14583129,Fienend,,t,de,0
 14764360,Flash,Flash (Chinese player),t,cn,0
 16346318,Flexy,,t,pl,0
@@ -446,7 +454,7 @@ ESL id,LP name,LP link,race,flag,notable
 18874201,MagicPeszu,,p,pl,0
 17428718,Maltheredin,,p,se,0
 16843903,marco,,t,id,0
-18501245,Mason,,z,us,0
+18501245,mason,,z,us,0
 9731184,Mechanics,Mechanics (German player),z,de,0
 15780800,Meowerdoom,,z,us,0
 11059380,Molten,,p,uk,0
@@ -466,6 +474,7 @@ ESL id,LP name,LP link,race,flag,notable
 19197565,Phun,,t,us,0
 15910732,Poker,,p,us,0
 16041333,Poryphorion,,t,ca,0
+18047827,PotatoThief,,p,ro,0
 14815551,PPower,,p,ru,0
 18035897,ProbeiusCorp,,t,us,0
 16131642,ProbeScout,,p,us,0
@@ -479,6 +488,7 @@ ESL id,LP name,LP link,race,flag,notable
 10168819,SharKRippeR,,t,de,0
 11376432,SilentHazard,,t,mx,0
 12786198,SimplyHunter,,t,pe,0
+14547839,Slayer,,p,us,0
 16389294,SlipJip,,t,us,0
 7455123,Sonic,,t,de,0
 14652919,St0nedas,,p,au,0
